@@ -1,2 +1,5 @@
-a = "hello everyone"
-print("a")
+a = "hello"
+b = "everyone"
+c = "a+b"
+print ("c")
+
